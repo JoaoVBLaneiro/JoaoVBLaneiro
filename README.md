@@ -32,6 +32,7 @@
   <a href="https://docs.arduino.cc/" target="_blank"><img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
   <a href="https://nodejs.org/docs/latest/api/" target="_blank"><img align="center" alt="NodeJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></a>
   <a href="https://react.dev/" target="_blank"><img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></a>
+  <a href="https://www.python.org/" target="_blank"><img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
   <a href="https://www.mathworks.com/help/matlab/" target="_blank"><img align="center" alt="MatLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>
   </div>
 
