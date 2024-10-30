@@ -3,7 +3,7 @@
 ### Seja bem-vindo! Eu sou João Vitor Briganti Laneiro 👋
 
 - 🎓 Graduando em Engenharia de Computação pela [Universidade Tecnológica Federal do Paraná](https://www.utfpr.edu.br/)
-- 🗝️ Dedicado ao ensino do Inglês e da Robótica
+- 🗝️ Dedicado ao ensino do <a href="https://www.instagram.com/abrindoportascp/" target="_blank">Inglês</a> e da <a href="https://www.instagram.com/equipeoverload/" target="_blank">Robótica</a> de forma <a href="https://www.instagram.com/utfprbg/" target="_blank">Lúdica</a>
 - 🖥️ Back-end developer dando uma olhada em Front
 
 <div align="center">
