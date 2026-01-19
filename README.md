@@ -43,6 +43,7 @@
   <a href="https://www.mathworks.com/help/matlab/" target="_blank"><img align="center" alt="MatLab" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" /></a>
   <a href="https://docs.aws.amazon.com/" target="_blank"><img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></a>
   <a href="https://docs.unity.com/en-us" target="_blank"><img align="center" alt="Unity" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /></a>
+  <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/docs.html" target="_blank"><img align="center" alt="PuTTY" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" /></a>
   <a href="https://docs.asterisk.org/" target="_blank"><img align="center" alt="Asterisk" height="50" width="50" src="https://i.imgur.com/fJFU94X.png"/></a>
   </div>
 
