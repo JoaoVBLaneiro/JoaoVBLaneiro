@@ -16,12 +16,6 @@
   <a href="https://www.instagram.com/jlaneiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaoVBLaneiro&show_icons=true&count_private=true&hide_border=true&title_color=3590c7&icon_color=3590c7&text_color=c9d1d9&bg_color=0d1117" alt="JVBL github stats" />   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVBLaneiro&layout=compact&hide_border=true&title_color=3590c7&text_color=ffffff&bg_color=0d1117" />
-</div>
-
 ##
 
 <div style="display: inline_block" align="center"><br>
